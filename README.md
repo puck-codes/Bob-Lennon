@@ -17,7 +17,7 @@ I also have a weakness for souls-like games like Dark souls & Sekiro.
 - A GNU/Linux operating system ([Arch Linux](https://archlinux.org))
 - And more...
 
-<h1>Statistic </h1> <img alt="Bob Lennon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bob-lennon&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
+<h1>Statistic </h1> <img alt="Bob Lennon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=puck-codes&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
 
 **Currently Active Repositories:**
 - [Bob-Lennon/Nuwe-Jump2Digital](https://github.com/Bob-Lennon/Nuwe-Jump2Digital)
